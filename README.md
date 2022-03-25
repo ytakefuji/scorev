@@ -1,4 +1,4 @@
-# scorecovidv
+# scorev
 scorecovidv is a PyPI tool for scoring COVID-19 policies in a file 'countries'.
 The score is calculated by dividing the number of deaths due to COVID-19.
 Generated result.csv has the following determinants:
