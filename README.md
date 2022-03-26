@@ -20,7 +20,7 @@ $ pip install scorev
 # How to run
 $ scorev
 
-<img src='' width= height=>
+<img src='https://github.com/ytakefuji/scorev/raw/add-license-1/result.png' width=782 height=1333>
 
 The filename countries has country names for scoring.
 
