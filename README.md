@@ -18,5 +18,5 @@ $ pip install scorev
 # How to run scorev
 $ scorerev
 
-<img src='' width= height= >
+<img src='result.png' width=800 height=1300 >
 
