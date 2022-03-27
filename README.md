@@ -25,4 +25,5 @@ $ scorerev
 
 <img src='https://github.com/ytakefuji/scorev/raw/main/result.png' width=800 height=1300 >
 
+# How to modify country names
 Modify oecd.csv file for adding and deleting countries.
