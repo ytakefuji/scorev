@@ -11,3 +11,12 @@ deaths, population, score, onedose (rate: at least 1 dose), full (rate: fully va
 Data is scraped from the following site:
 
 https://covid.ourworldindata.org/data/owid-covid-data.csv
+
+# How to install scorev
+$ pip install scorev
+
+# How to run scorev
+$ scorerev
+
+<img src='' width= height= >
+
