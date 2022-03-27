@@ -1,5 +1,5 @@
 # scorev
-scorev is a PyPI tool for scoring COVID-19 policies in a filename 'countries' with vaccine rates 
+scorev is a PyPI tool for scoring COVID-19 policies in a filename 'oecd.csv' with vaccine rates 
 such as at least 1 dose, fully vaccinated, and booster given.
 
 scorev subsumes PyPI scorecovid application.
