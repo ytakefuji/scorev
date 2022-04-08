@@ -1,6 +1,7 @@
 # scorev
 [![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/1f1cb392-a56c-41da-a18d-ca8853a398e7/tree)
 
+Cite:
 takefuji (2022) scorev for scoring COVID-19 policies with vaccine rates [Source Code]. https://doi.org/10.24433/CO.4373206.v1
 
 
